@@ -27,8 +27,8 @@ Copy and paste your API keys in the order shown below to .rob_bot_keystore file:
 {replace with TWITTER CONSUMER SECRET}<br/>
 {replace with personalityforge's SECRET KEY}<br/>
 {replace with personalityforge's API KEY}<br/>
-{replace with TWITTER NAME for example @gcziprusz}
-{replace with your chatbots ID (read up how you can create your own at http://www.personalityforge.com)}
+{replace with TWITTER NAME for example @gcziprusz}<br/>
+{replace with your chatbots ID (read up how you can create your own at http://www.personalityforge.com)}<br/>
 {replace with an integer  >= 10 to define how often twitter should be checked}
 
 You are ready to run RobBot:

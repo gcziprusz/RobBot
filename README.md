@@ -21,12 +21,12 @@ and save it to your HOME directory.
 
 Copy and paste your API keys in the order shown below to .rob_bot_keystore file:
 
-{replace with TWITTER OAUTH TOKEN}\n
-{replace with TWITTER OAUTH TOKEN SECRET}\n
-{replace with TWITTER CONSUMER KEY}\n
-{replace with TWITTER CONSUMER SECRET}\n
-{replace with personalityforge's SECRET KEY}\n
-{replace with personalityforge's API KEY}\n
+{replace with TWITTER OAUTH TOKEN}<br/>
+{replace with TWITTER OAUTH TOKEN SECRET}<br/>
+{replace with TWITTER CONSUMER KEY}<br/>
+{replace with TWITTER CONSUMER SECRET}<br/>
+{replace with personalityforge's SECRET KEY}<br/>
+{replace with personalityforge's API KEY}<br/>
 {replace with TWITTER NAME for example @gcziprusz}
 
 You are ready to run RobBot:
